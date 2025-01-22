@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="PauseManager">
+			<method name="newGame"/>
+			<method name="newGame"/>
+			<method name="newGame"/>
+			<method name="newGame"/>
+			<method name="ResumeGame"/>
+			<method name="ResumeGame"/>
+		</type>
+		<type fullname="PlayScript">
+			<method name="closeOptions"/>
+			<method name="openOptions"/>
+			<method name="PlayGame"/>
+		</type>
+	</assembly>
+</linker>
