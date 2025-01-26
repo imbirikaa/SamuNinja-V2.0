@@ -40,7 +40,7 @@ Enjoy playing **SamuNinja**, and may your reflexes guide you to victory!
 
 # Team Members and Contributions
 
-| **Ali Imbirika - 21360859217** | **Muaz Radwan - 22360859370** |  
+| **ALI HISHAM IMBIRIKA - 21360859217** | **Muaz Radwan - 22360859370** |  
 |--------------------------------|-------------------------------|  
 | Main Menu (15x)                | Main Menu (15x)               |  
 | Animations (20x)               | Animations (10x)              |  
