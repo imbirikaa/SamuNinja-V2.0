@@ -31,7 +31,7 @@ A game for Game Programming Subject By Unity
 3. Look out for power-ups:
    - **Apple**: Restores your health.
    - **Dragon Fruit**: Grants you the ability to throw knives.
-
+4. Reach 110 score to play the next level 
 ---
 ## Try the Game
 Enjoy playing **SamuNinja**, and may your reflexes guide you to victory!
